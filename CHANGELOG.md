@@ -33,7 +33,7 @@ If you love `detect-secrets`, please star our project on GitHub to show your sup
 ##### October 4th, 2022
 
 #### :newspaper: News
-- We're dropping support for Python 3.6 starting v1.5.0! Python 3.6 reached EOL on December 23, 2021 and, therefore, is currently unsupported. We hope this announcement gives you plenty of time to upgrade your project, if needed.
+- We're dropping support for Python 3.6 starting v1.5.0! Python 3.6 reached EOL on December 23, 2021 and, therefore, is currently unsupported. We hope this announcement gives you plenty of time to upgrade your project, if needed
 
 #### :mega: Release Highlights
 - Improved filtering by excluding secrets that have already been detected by a regex-based detector ([#612])
